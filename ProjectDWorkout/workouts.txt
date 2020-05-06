@@ -1,0 +1,6 @@
+102 other 50 no
+101 yoga 60 2
+103 bike 90 5
+101 bike 90 3
+102 other 50 yes
+
